@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Awesome Static Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My Awesome Static Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2020 22:47:57 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>https://example.org/post/another-post/</link>
+      <pubDate>Tue, 13 Oct 2020 22:47:57 +0100</pubDate>
+      
+      <guid>https://example.org/post/another-post/</guid>
+      <description>Another fantastic blog post! Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 13 Oct 2020 22:47:03 +0100</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I love Hugo!</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://example.org/post/hello-world/</link>
+      <pubDate>Tue, 13 Oct 2020 22:37:38 +0100</pubDate>
+      
+      <guid>https://example.org/post/hello-world/</guid>
+      <description>Welcome to my awesome blog!
+There&amp;rsquo;s not much here yet, but stay tuned.</description>
+    </item>
+    
+  </channel>
+</rss>
