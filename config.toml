@@ -14,7 +14,7 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of Matty P."
     location = "The Inland Empire"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
+    avatar = "img/hugo-logo.png"
     header_background = "img/coffee.jpg"
     header_title = "My Awesome Static Site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
