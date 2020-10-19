@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://confident-wozniak-474063.netlify.app/"
 languageCode = "en-us"
 title = "My Awesome Static Site"
 # Define how many pages appear per site
@@ -10,8 +10,8 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Matty P"
-    site_description = "The awesome blog of Matty P."
+    site_author = "Some Guy"
+    site_description = "The awesome blog of Some Guy."
     location = "The Inland Empire"
     # Link custom assets relative to /static
     avatar = "img/hugo-logo.png"
